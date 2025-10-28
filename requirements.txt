@@ -1,0 +1,6 @@
+gensim
+pandas
+nltk
+stanfordnlp
+requests
+chunkers
